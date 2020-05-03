@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ostore\Ostore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\Ostore\Ostore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\Ostore\Ostore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\source\repos\Ostore\Ostore\bin\Debug\netcoreapp3.1\Ostore.API.exe
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\Ostore.API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\Ostore.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\Ostore.API.AssemblyInfo.cs
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\Ostore.API.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\staticwebassets\Ostore.API.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Ostore\Ostore\obj\Debug\netcoreapp3.1\staticwebassets\Ostore.API.StaticWebAssets.xml

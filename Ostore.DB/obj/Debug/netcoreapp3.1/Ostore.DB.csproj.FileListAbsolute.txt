@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\Ostore.DB.exe
+C:\Users\User\source\repos\Ostore\Ostore.DB\obj\Debug\netcoreapp3.1\Ostore.DB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ostore\Ostore.DB\obj\Debug\netcoreapp3.1\Ostore.DB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ostore\Ostore.DB\obj\Debug\netcoreapp3.1\Ostore.DB.AssemblyInfo.cs
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\Ostore.Core.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Ostore\Ostore.DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
